@@ -67,3 +67,6 @@ Launch the project demo
 `npm start`
 
 If it is successful, the demo will be launched on `http://localhost:3000`
+
+## Contributors
+Sai Rakesh# Dining_Management_App
