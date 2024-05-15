@@ -38,7 +38,7 @@ Bootstrap: Provides responsive design components.
 
 ## Backend:
 
-Clone this repository
+Clone this project`git clone https://github.com/desolatecoder/Dining-management.git`
 
 Configure your MySQL database settings in application.properties.
 
